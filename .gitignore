@@ -1,0 +1,13 @@
+# Maven
+backend/target/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Environment secrets
+.env
+
+# OS
+.DS_Store
+*.log
